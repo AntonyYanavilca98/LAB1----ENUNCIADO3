@@ -1,0 +1,9 @@
+C:\Cursos\6TO ciclo\DAWAV\PjConexion3\PjConexion3\bin\Debug\PjConexion3.exe.config
+C:\Cursos\6TO ciclo\DAWAV\PjConexion3\PjConexion3\bin\Debug\PjConexion3.exe
+C:\Cursos\6TO ciclo\DAWAV\PjConexion3\PjConexion3\bin\Debug\PjConexion3.pdb
+C:\Cursos\6TO ciclo\DAWAV\PjConexion3\PjConexion3\obj\Debug\PjConexion3.csprojAssemblyReference.cache
+C:\Cursos\6TO ciclo\DAWAV\PjConexion3\PjConexion3\obj\Debug\PjConexion3.Form1.resources
+C:\Cursos\6TO ciclo\DAWAV\PjConexion3\PjConexion3\obj\Debug\PjConexion3.Properties.Resources.resources
+C:\Cursos\6TO ciclo\DAWAV\PjConexion3\PjConexion3\obj\Debug\PjConexion3.csproj.GenerateResource.cache
+C:\Cursos\6TO ciclo\DAWAV\PjConexion3\PjConexion3\obj\Debug\PjConexion3.exe
+C:\Cursos\6TO ciclo\DAWAV\PjConexion3\PjConexion3\obj\Debug\PjConexion3.pdb
